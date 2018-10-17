@@ -4,7 +4,7 @@
 
 ## Assignment 2
 
-The following chart shows three different research papers taken from perr-reviewed journal PLOS ONE.
+The following chart shows three different research papers taken from peer-reviewed journal PLOS ONE.
 
 | **Statistical Analyses** |  **IV(s)**  |  **IV Type(s)**  |  **DV(s)**  |  **DV Type(s)**  |  **Control Variable(s)**  |  **Control Var Type(s)**  |  **Question TBA**  |  **Null Hypothesis**  |  **Alpha**  | **Link to Paper**|                   
 |:--------------------:|:-----|:----------|:-----|:----------|:-------------------|:-------------------|:------------|:---------------:|:---------------:|:-----|
