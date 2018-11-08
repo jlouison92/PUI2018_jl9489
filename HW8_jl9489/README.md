@@ -5,6 +5,8 @@ For this plot I used the City Health Dashboard, developed by NYU School of Medic
 
 ![](data_viz.png)
 
+**Figure 1:** The above plot shows the percentage of children in poverty for each recorded city in New Jersey. Each dot represents a unique census tract.  
+
 ## Assignment 2: Citi Bike Analysis (Null Hypothesis Testing)
 
 I completed the analysis for the Citi Bike data retrieved and graphed in HW 4.
