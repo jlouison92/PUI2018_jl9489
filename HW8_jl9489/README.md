@@ -3,7 +3,7 @@
 For this plot I used the City Health Dashboard, developed by NYU School of Medicine. I looked at childhood poverty rates in New Jersey
 (my current homestate).
 
-![](PUI2018_jl9489/HW8_jl9489/Data Visualization.png)
+
 
 ## Assignment 2: Citi Bike Analysis (Null Hypothesis Testing)
 
