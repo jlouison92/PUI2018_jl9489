@@ -1,4 +1,4 @@
-## Assignment 1: Plot a visualization
+## The rendered plot
 
 For this plot I used the City Health Dashboard, developed by NYU School of Medicine. I looked at childhood poverty rates in New Jersey
 (my current homestate).
@@ -7,7 +7,4 @@ For this plot I used the City Health Dashboard, developed by NYU School of Medic
 
 **Figure 1:** The above plot shows the percentage of children in poverty for each recorded city in New Jersey. Each dot represents a unique census tract.  
 
-## Assignment 2: Citi Bike Analysis (Null Hypothesis Testing)
-
-I completed the analysis for the Citi Bike data retrieved and graphed in HW 4.
-You can find a full report of my findings [here](https://www.authorea.com/336213/T2wPh_oVnG2sr-ql91r7Fg).
+This is an interesting plot and conveys vital information. One observation is that we see multiple values for each data point and it is not clearly delineated by the visual or description that what they mean. I went through the code and discovered that for each city different data points correspond to different groups like (asian, black white). I believe that coloring these differnt groups differently and adding a legend to the the plot will be of great help. Furthermore, I think that multiple bar chart or stacked barchart would be a more suitable visual to show the distribution of children in poverty over cities.
