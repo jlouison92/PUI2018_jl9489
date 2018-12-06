@@ -1,8 +1,8 @@
 Assignment 1 was done in collaboration with the following classmates (by student ID):
-fb1182
-ah4412
-tp1600
-yg833
+fb1182,
+ah4412,
+tp1600,
+yg833,
 qg412
 
 
